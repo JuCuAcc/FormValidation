@@ -33,7 +33,7 @@ function Validation(){
 	all += "\nBirth Date: " +db;
 	all += "\nGender: " +gn;
 	all += "\nEmail: " +em;
-	all += "\nPhone Number : " +pn;
+	all += "\nPhone Number: " +pn;
 	all += "\nCourse: " +crs;	
 	all += "\nPreferences:  " +p1;
 	//all += "' ;
