@@ -35,7 +35,7 @@ function Validation(){
 	all += "\nEmail: " +em;
 	all += "\nPhone Number : " +pn;
 	all += "\nCourse: " +crs;	
-	all += "\n:Preferences  " +p1;
+	all += "\nPreferences:  " +p1;
 	//all += "' ;
 
 	if( nm != "" && db!= "" && gn!= "" && em != "" && pn != "" && crs != "Choose Your Course" && p1 != "" ){
